@@ -6,6 +6,6 @@ Glaucoma is a severe eye condition that leads to blindness without treatment. Fo
 
 ### Files of Interest
 
-Code: glaucoma-predictive-imaging.ipynb
-Retinal Images: full-fundus; Source: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset/data
-Metadata (CSV file): metadata.csv; Source: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset/data
+Code: glaucoma-predictive-imaging.ipynb  
+Retinal Images: full-fundus; Source: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset/data  
+Metadata (CSV file): metadata.csv; Source: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset/data  
